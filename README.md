@@ -7,7 +7,7 @@ To run the code, follow the instructions:
 
 ```
 create env -n env_name python=3.6 
-source activate env_name
+activate env_name
 conda install numpy matplotlib juypter notebook tqdm scipi scikit-learn
 conda install tensorflow-gpu
 cd "Path of this file"
